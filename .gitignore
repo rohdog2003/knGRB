@@ -9,7 +9,7 @@ spec1.npy
 synFunc.py
 test*.py
 ykn.py
+*.pyc
 __pycache__
 demos
 tests
-*.pyc
