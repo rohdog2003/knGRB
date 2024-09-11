@@ -1,0 +1,15 @@
+graph*.py
+GraphingToolbox.py
+comptonYTTest.py
+gs_equalities.py
+gstable2.py
+physparams.py
+realspectra.py
+spec1.npy
+synFunc.py
+test*.py
+ykn.py
+__pycache__
+demos
+tests
+*.pyc
